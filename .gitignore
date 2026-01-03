@@ -1,0 +1,7 @@
+data/*.db
+.env
+.venv/
+__pycache__/
+tests/tmp/*.db
+tests/__pycache__/
+site_out/
